@@ -1,0 +1,233 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.full-w {
+    background-color: #F0FFF0;
+}
+.logo img {
+    width: 83%;
+    margin-left: 70px;
+    padding-left: 15px;
+    margin-top: 8px;
+}
+.navber {
+    padding: 20px 15px 0px 0px;
+    
+    
+}
+.nav-link {
+    color: black;
+    font-size: 15px;
+    line-height: 19px;
+    font-weight: 450;
+}
+.nav-link:hover {
+    background-color: white;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    color: #21B573;
+    border-radius: 33px;
+}
+.sign-in {
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+}
+.sign-in:hover {
+    background-color: white;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    color: #21B573;
+}
+.are {
+    color: #FD511A;
+    font-size: 16px;
+    line-height: 24px;
+}
+.learn {
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: bold;
+}
+.lorem {
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 36px;
+}
+.top-5 {
+    padding: 60px 0px 20px 60px;;
+    
+    
+}
+.get {
+    padding: 11px 33px 11px 33px;
+    border-radius: 33px;
+    background-color: #21B573;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+    line-height: 19px;
+    
+}
+.get:hover {
+    background-color: white;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    color: #21B573;
+
+}
+.any {
+    color:#21B573 ;
+}
+.col-md-7 img {
+    width: 95%;
+    padding: 30px;
+}
+
+.card2nd img {
+    width: 30%;
+    height: 40%;
+}
+.card2nd h5 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.card2nd p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #585859;
+    margin-top: -15px;
+}
+.card2nd {
+    width: 270px;
+    height: 270px;
+    padding-top: 60px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.card2nd:hover {
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.second {
+    margin-top: 50px;
+}
+
+
+.courses {
+    margin-top: 100px;
+}
+.courses h3 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #413960;
+    padding-bottom: 40px;
+}
+.card-3rd img {
+    width: 88%;
+    padding-top: 20px;
+}
+.card-3rd {
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-3rd p {
+    font-size: 15px;
+    color: #585859;
+}
+.card-3rd h5 {
+    color: #413960;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 15px;
+}
+.buy {
+    padding: 8px 30px 8px 30px;
+    border-radius: 33px;
+    background-color: #21B573;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 14px;
+    line-height: 10px;
+}
+.buy:hover {
+    background-color: white;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    color: #21B573;
+}
+
+
+
+.date img {
+    width: 15%;
+    
+    
+}
+.seat img {
+    width: 15%;
+    
+    
+}
+.card-footer {
+    padding: 0px 13px 0px 13px;
+    background-color: white;
+}
+.card-footer p {
+    padding-top: 43px;
+    color: #585859;
+}
+.testimonial {
+    margin-top: 120px;
+    margin-bottom: 60px;
+    padding: 0px 200px;
+}
+.testimonial h3 {
+    font-weight: bold;
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+.testimonial p {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 30px;
+    padding-left: 40px;
+}
+.t-img img {
+    width: 80%;
+    }
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.full-w2 {
+    background-color: #282531;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    margin-top: 90px;
+}
+.millions {
+    color: white;
+    font-size: 14px;
+    padding: 0px 50px;
+    line-height: 30px;
+}
+li {
+    color: white;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 100;
+}
+ul {
+    list-style-type: none;
+  }
+.Copyright {
+    color:#CDCDCD;
+    font-size: 14px;
+    padding-top: 50px;
+    
+}
