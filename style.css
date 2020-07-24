@@ -5,10 +5,10 @@ body {
     background-color: #F0FFF0;
 }
 .logo img {
-    width: 83%;
-    margin-left: 70px;
+    width: 80%;
+    margin-left: 60px;
     padding-left: 15px;
-    margin-top: 8px;
+    margin-top: 6px;
 }
 .navber {
     padding: 20px 15px 0px 0px;
@@ -20,6 +20,7 @@ body {
     font-size: 15px;
     line-height: 19px;
     font-weight: 450;
+    padding: 10px 15px;
 }
 .nav-link:hover {
     background-color: white;
@@ -55,7 +56,7 @@ body {
     line-height: 36px;
 }
 .top-5 {
-    padding: 60px 0px 20px 60px;;
+    padding: 60px 0px 20px 70px;;
     
     
 }
@@ -79,13 +80,18 @@ body {
     color:#21B573 ;
 }
 .col-md-7 img {
-    width: 95%;
-    padding: 30px;
+    width: 90%;
+    padding: 40px;
 }
 
 .card2nd img {
-    width: 30%;
-    height: 40%;
+    width: 27%;
+}
+.top {
+    padding-bottom: 50px;
+}
+#book img {
+    width: 23%;
 }
 .card2nd h5 {
     font-family: Poppins;
@@ -104,10 +110,16 @@ body {
 }
 .card2nd {
     width: 270px;
-    height: 270px;
+    height: auto;
     padding-top: 60px;
     background-color: #F8FFFB;
     border-radius: 10px;
+}
+.cf1 {
+    background-color: #F8FFFB;
+}
+.cf1:hover  {
+    background-color:white;
 }
 .card2nd:hover {
     background-color: white;
@@ -117,12 +129,14 @@ body {
 .second {
     margin-top: 50px;
 }
-
+.subject {
+    margin: 20px 80px 50px 80px;
+}
 
 .courses {
     margin-top: 100px;
 }
-.courses h3 {
+.courses {
     font-weight: bold;
     font-size: 36px;
     color: #413960;
@@ -135,6 +149,7 @@ body {
 .card-3rd {
     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
     border-radius: 18px;
+    margin: 10px;
 }
 .card-3rd p {
     font-size: 15px;
@@ -173,37 +188,35 @@ body {
     
     
 }
-.card-footer {
-    padding: 0px 13px 0px 13px;
+.cf2 {
+    padding: 0px 13px 10px 13px;
     background-color: white;
 }
-.card-footer p {
+.cf2 p {
     padding-top: 43px;
     color: #585859;
+    font-weight: 500;
 }
 .testimonial {
-    margin-top: 120px;
-    margin-bottom: 60px;
-    padding: 0px 200px;
+    padding: 10px 80px 10px 80px;
 }
 .testimonial h3 {
-    font-weight: bold;
-    font-size: 36px;
-    padding-bottom: 40px;
+    padding: 50px;
 }
-.testimonial p {
+
+.test-t {
+    padding: 0px 90px 0px 0px;
+}
+.test-t p {
     font-size: 15px;
     font-weight: 500;
     line-height: 30px;
-    padding-left: 40px;
+    padding-top: 15px;
 }
 .t-img img {
-    width: 80%;
-    }
-.img-fluid {
-    max-width: 100%;
-    height: auto;
+    width: 40%;
 }
+
 .full-w2 {
     background-color: #282531;
     padding-top: 50px;
